@@ -15,6 +15,7 @@ function App() {
     setIsModalOpen(true);
   };
 
+  
   const closeModal = () => {
     setIsModalOpen(false);
   };

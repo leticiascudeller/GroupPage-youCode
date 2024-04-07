@@ -11,7 +11,6 @@ function App() {
   const [isJoinButtonHovered, setIsJoinButtonHovered] = useState(false);
   const [isJoinButtonClicked, setIsJoinButtonClicked] = useState(false);
 
-
   const openModal = () => {
     setIsModalOpen(true);
   };
